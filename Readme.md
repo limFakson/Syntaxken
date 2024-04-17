@@ -36,12 +36,12 @@ solve real-life problems while putting the users at the heart of all iteration.
     ##### 🌏 [https://syntaxken.netlify.app](https://syntaxken.netlify.app)
     ##### 📞 [+2349041189378](tel:+2349041189378)
 
-<!-- - Some of my projects  
-    ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
-    ##### 🌏 [languvi.com](https://languvi.com)
+- Some of my projects  
+    <!-- ##### 🌏 [emmyhcoin.com](https://emmyhcoin.com)
+    ##### 🌏 [languvi.com](https://languvi.com) -->
     <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) -->
-    ##### 🌏 [heurisko.ai](https://heurisko.ai/)
-    ##### 🌏 [keysgame.me](https://keysgame.me) -->
+    ##### 🌏 [Cinerama-insight.app/](https://cinerama-insight.netlify.app/)
+    ##### 🌏 [futaforum.app](https://futaforum.vercel.app)
 
 ## Languages and Tools
 <p align="center">
